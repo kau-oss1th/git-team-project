@@ -19,4 +19,4 @@ book_list.txt와 markdown_guide.txt 같은 문서 파일을 중심으로 실습�
 5단계	태그(v1.0.0) 생성 및 회고 작성, 과제 제출
 
 
-error-test1
+readme 수정
