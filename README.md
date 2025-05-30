@@ -17,3 +17,6 @@ book_list.txt와 markdown_guide.txt 같은 문서 파일을 중심으로 실습�
 3단계	각자 문서 작성 후 커밋 및 PR 생성
 4단계	충돌 해결 실습, 모든 PR 병합
 5단계	태그(v1.0.0) 생성 및 회고 작성, 과제 제출
+
+
+error-test1
