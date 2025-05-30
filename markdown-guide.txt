@@ -1,0 +1,13 @@
+## Book List
+
+### 1. Open Source 101: A Beginner's Guide to Getting Started
+- **Author**: Bekah Hawrot Weigel
+
+### 2. A Beginner’s Guide to Open Source Software Development
+- **Author**: none
+
+### 3. Forge Your Future with Open Source
+- **Author**: VM (Vicky) Brasseur
+
+### 4. Getting Started with MATLAB: A Quick Introduction for Scientists and Engineers
+- **Author**: Rudra Pratap
